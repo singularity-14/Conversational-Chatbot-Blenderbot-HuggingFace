@@ -59,4 +59,4 @@ This file contains the main application code for the chatbot.
 
 ### `backend.py`
 
-This file contains the backend logic for the chatbot (if any additional functionality is required).
+This file contains the backend logic for the chatbot.
